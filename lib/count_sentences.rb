@@ -27,7 +27,6 @@ end
   end
 
   def count_sentences
-<<<<<<< HEAD
     self.squeeze(".?!").count(".?!")
   end
 end
